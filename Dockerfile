@@ -1,4 +1,4 @@
-FROM registry.sspaas.net/tangruoqi/application:B1.0
+FROM registrytest.sspaas.net/root/application:B1.0
 
 MAINTAINER xiezihao <18505610220@163.com>
 
